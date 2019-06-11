@@ -1,0 +1,76 @@
+{   
+    "goods":[
+        {
+            "goodsname":"手机",
+            "goodsmenu":[
+                {
+                    "path":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d2bc1c7ff8c71628a28a5fce24caf245.jpg?thumb=1&w=360&h=360",
+                    "name":"小米8 青春版",
+                    "sign":"潮流轻旗舰，超级夜景模式",
+                    "price":"1299",
+                    "oldPrice":"1699"
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/2dc1fd08-ee77-65dd-c52a-82ba382ae864!360x360.webp",
+                    "name":"小米8 屏幕指纹版 ",
+                    "sign":"压感屏幕指纹，手持超级夜景",
+                    "price":"2499",
+                    "oldPrice":"2999"
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/def98121-4b54-54a6-debb-e5c8a51dd4f7!360x360.webp",
+                    "name":"黑鲨游戏手机 Helo ",
+                    "sign":"双液冷，更能打",
+                    "price":"3199",
+                    "oldPrice":"3499"
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/e8699727-9628-8c0b-103a-f14fe8a56d02!360x360.webp",
+                    "name":"红米6",
+                    "sign":"小屏高性能的双摄手机",
+                    "price":"729",
+                    "oldPrice":"799"
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/2c506517-9477-c928-8e77-bee18b6818a1!360x360.webp",
+                    "name":"红米6A",
+                    "sign":"好看耐用/轻巧省心",
+                    "price":"549",
+                    "oldPrice":"599"
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/bd9b6895-5b51-a0d6-fb79-e430ca40dca6!360x360.webp",
+                    "name":"小米6X",
+                    "sign":"前置2000万，后置2000万",
+                    "price":"1299",
+                    "oldPrice":"1799"
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/bd9b6895-5b51-a0d6-fb79-e430ca40dca6!360x360.webp",
+                    "name":"小米Play（附带流量卡）",
+                    "sign":"自带高速流量",
+                    "price":"1099"
+
+                    
+                },
+                {
+                    "path":"https://i8.mifile.cn/v1/a1/a3005732-76c4-0c24-c311-6caf9913bc7c!360x360.webp",
+                    "name":"小米平板4",
+                    "sign":"大屏、长续航、超薄电脑",
+                    "price":"1099"
+
+                    
+                }
+                ]
+        }
+    ]
+    
+
+
+}
